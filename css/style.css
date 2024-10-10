@@ -85,7 +85,7 @@ nav a {
     color: #fff !important;
 }
 .home {
-    background-image: url(/images/bg_1.jpg);
+    background-image: url(images/bg_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -224,13 +224,13 @@ nav a {
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url(/images/bg_2.jpg);
+    background-image: url(images/bg_2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 } */
 @keyframes background-change {
   /* 1%{
-    background-image: url(/images/bg_1.jpg);
+    background-image: url(images/bg_1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -238,7 +238,7 @@ nav a {
     width: 100%;
     } */
   50% {
-    background-image: url(/images/bg_2.jpg);
+    background-image: url(images/bg_2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -246,7 +246,7 @@ nav a {
     width: 100%;
   }
   100% {
-    background-image: url(/images/bg_3.jpg);
+    background-image: url(images/bg_3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -328,7 +328,7 @@ nav a {
     width: 300px !important;
     margin-left: 10%;
     height: 500px !important;
-    background-image: url(/images/about.jpg);
+    background-image: url(images/about.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -336,7 +336,7 @@ nav a {
 .card-two {
     /* width: 300px !important; */
     height: 500px !important;
-    background-image: url(/images/about-1.jpg);
+    background-image: url(images/about-1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -547,7 +547,7 @@ font-weight: 300 !important;
 }
 .booking {
     margin-top: 80px !important;
-    background-image: url(/images/bg_3.jpg) !important;
+    background-image: url(images/bg_3.jpg) !important;
     background-position: 50% -24.1001px;
     background-repeat: no-repeat !important;
     background-size: cover !important;
